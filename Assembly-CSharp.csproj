@@ -36,12 +36,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets/Scripts/PlayerController.cs" />
-     <Compile Include="Assets/Scripts/ThrowFood.cs" />
-     <Compile Include="Assets/Scripts/AnimalRun.cs" />
-     <Compile Include="Assets/Scripts/DestroyOutOfBounds.cs" />
-     <Compile Include="Assets/Scripts/AnimalSpawner.cs" />
      <Compile Include="Assets/Scripts/DetectCollisions.cs" />
+     <Compile Include="Assets/Scripts/AnimalSpawner.cs" />
+     <Compile Include="Assets/Scripts/DestroyOutOfBounds.cs" />
+     <Compile Include="Assets/Scripts/AnimalRun.cs" />
+     <Compile Include="Assets/Scripts/ThrowFood.cs" />
+     <Compile Include="Assets/Scripts/PlayerController.cs" />
      <None Include="Assets/Course Library/_Source_Files/_LICENSE.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2021.3.11f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
